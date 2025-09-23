@@ -1,2 +1,2 @@
 # _phpExercises
-Exercise for PHP.
+Exercises for PHP
